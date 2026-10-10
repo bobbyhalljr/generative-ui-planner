@@ -6,11 +6,11 @@ It selects an owned line-chart or data-table plan without inventing missing meas
 
 ## Article
 
-Article URL will be added after publication. The complete preview is in [article.md](article.md).
+[Read the published tutorial](https://dev.to/bobbyhalljr/your-agent-picked-a-chart-did-the-data-deserve-one-build-a-ui-planner-in-typescript-5839). The full text is also in [article.md](article.md).
 
 ## Prerequisites and commands
 
-Node.js 22.20 or later. Native type stripping executes TypeScript without compiling it and does not perform type checking.
+Git and Node.js 22.20 or later. Native type stripping executes TypeScript without compiling it and does not perform type checking.
 
 ```bash
 git clone https://github.com/bobbyhalljr/generative-ui-planner.git

@@ -12,7 +12,7 @@ Zero is data. Missing is not zero.
 
 Honest limits: this returns a component plan. It does not run CopilotKit, render charts, or sandbox generated code. The rules are a conservative local policy.
 
-Article: DEV_URL
+Article: https://dev.to/bobbyhalljr/your-agent-picked-a-chart-did-the-data-deserve-one-build-a-ui-planner-in-typescript-5839
 Code: https://github.com/bobbyhalljr/generative-ui-planner
 
 Building Roster, AI employees that do real work.
@@ -39,7 +39,7 @@ No API key. No invented measurements.
 3/3
 Limits: a local component planner, not a renderer or sandbox. I did not run CopilotKit's full app.
 
-Tutorial: DEV_URL
+Tutorial: https://dev.to/bobbyhalljr/your-agent-picked-a-chart-did-the-data-deserve-one-build-a-ui-planner-in-typescript-5839
 Code: https://github.com/bobbyhalljr/generative-ui-planner
 
 # Substack
