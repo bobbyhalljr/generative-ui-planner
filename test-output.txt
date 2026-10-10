@@ -1,0 +1,21 @@
+PASS complete series
+PASS zero is a value
+PASS negative values
+PASS two points
+PASS mixed units
+PASS missing stays missing
+PASS descending dates
+PASS duplicate dates
+PASS irregular spacing
+PASS invalid calendar date
+PASS NaN rejected
+PASS infinity rejected
+PASS empty rejected
+PASS oversized rejected
+PASS envelope rejected
+PASS empty unit rejected
+PASS extra markup excluded
+PASS input not mutated
+18/18 checks passed
+complete: line-chart (complete-regular-series)
+missing: data-table (missing-values)
